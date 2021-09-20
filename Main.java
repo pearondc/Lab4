@@ -18,7 +18,7 @@ class Main {
     }
 
     if(ogRandomNum <= 5) {
-      System.out.println("Ahoy mateys");
+      System.out.println("Ahoy mateys!");
     }
 
     else if (ogRandomNum < 42 && ogRandomNum > 25) {
