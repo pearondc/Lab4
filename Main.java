@@ -1,7 +1,7 @@
 /*
 Lab 4
-Partners: Dillon Pearon and YourPartnerName
-Date: (whatever date you turn it in)
+Dillon Pearon
+Date: 9/20/2021
 */
 import java.util.Random;
 class Main {
